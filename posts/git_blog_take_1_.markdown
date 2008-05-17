@@ -1,0 +1,4 @@
+git-blog, take 1!
+=================
+
+Awesome! So I'm totally writing my first post in git-blog, which I wrote today (making this the first post ever written for git-blog). Isn't it badass? This is being written in TextMate, and when I save it, git-blog will automatically save it and commit it to the repository. The repository, being a normal git repository, has all the associated awesomeness - complete versioning on all of my posts, categories (in the form of branches), and simplicity/minimalism (taken to an extreme). In any case, I'm gonna publish this badass baby now, and then push the changes to github - in two terminal commands. After some more debugging (when it's... *not* 2:09 AM my time, and I'm *not* dead-tired), I'm going to set it up on my server as well, so I can actually publish this to the web.
