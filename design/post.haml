@@ -9,4 +9,7 @@
     / %link{:rel => 'alternate', :href => '/posts/feed.atom', :type => 'application/atom+xml', :title => 'Feed (Atom)'}
   %body
     %h1= title
-    .content= content
+    #content= content
+    #footer
+      :markdown
+        powered by [git-blog](http://github.com/elliottcable/git-blog "elliottcable's git-blog on GitHub"), by [elliottcable](http://elliottcable.name "elliottcable")
