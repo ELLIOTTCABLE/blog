@@ -12,6 +12,16 @@ h1 {
   text-transform: uppercase;
 }
 
+#posts {
+  
+}
+
+#posts li {
+  list-style-type: none;
+  text-align: center;
+  font-size: 150%;
+}
+
 #footer {
   position: absolute;
   bottom: 10px;
