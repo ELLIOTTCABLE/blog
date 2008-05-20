@@ -1,7 +1,7 @@
 MyRB
 ====
 
-Not to be confused with [merb](http://merbivore.com "Merb - Rails done *right*"), MyRB ('My .RBs') is what I've christened one of my more fun sounding ideas so far. Let me expound a bit on what I see as the problem.
+Not to be confused with [merb](http://merbivore.com "Merb - Rails done right"), MyRB ('My .RBs') is what I've christened one of my more fun sounding ideas so far. Let me expound a bit on what I see as the problem.
 
 If you're a Ruby programmer who is anything like me, you have lots of favorite snippets of code that you use over and over, copying from project to project so they are available everywhere you code (for me, they are often core extensions that add new methods to, say, `String` or `Symbol` or `Kernel`). I, and I expect for a lot of the other Ruby programmers out there, each have something of our own library similar to [Ruby Facets](http://facets.rubyforge.org "Ruby Facets, the single largest collection of core extension methods and standard library additions available for the Ruby programming language"), with all of our own little favorite snippets and extensions.
 
