@@ -20,3 +20,8 @@ In this way, the coder would no longer have to do anything but catalog their sni
 On another level, MyRB would enable easy snippet sharing - you could publish your snippets using a simple myrb_server of some sort, allowing the download (via HTTP) of all of your snippets, or perhaps excluding certain groups if you so desire. Then another MyRB user could browse your snippets on the web, and import one of your snippets the same way they would import a local Myrbfile.
 
 I'm really excited about this - it needs a little ironing out on the technical level (how to store and deploy snippets, exactly), but if we could figure it out it could be very cool. If you think this is a cool idea, and want to contribute code/time/ideas, feel free to [contact me](http://elliottcable.name/contact.xhtml "contact elliottcable"), I've got all the instant messaging clients, as well as plain 'ol e-mail. Hell, feel free to contact me if you just wanna say you think this is cool (-:
+
+update
+------
+
+Since originally posting this, I decided to just do it myself, because I liked the idea. So here y'all go, my first stab at MyRB, or as I have re-christened it, [my.rb](http://github.com/elliottcable/my.rb "elliottcable's my.rb on GitHub"). It's not really complete as of this writing - none of the smarts are in there, nor is the whole deploy tool or any hint of it. But it does work as a basic snippet storage utility as it is, so feel free to clone it and play with it.
