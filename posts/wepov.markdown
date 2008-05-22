@@ -32,4 +32,10 @@ Another element of the voting system, is that the arguments with the largest num
 
 Over-all, this system should facilitate at least *somewhat* thoughtful discussion on the internet. That is, more thoughtful than is normally seen. It should also give people a chance to see the extremes of a topic, rather than some arbitrary argued-over so-called 'unbiased' mid-point.
 
+To re-iterate some of the major points that i've already stated, but want to be sure to grind into yon reader...
+
+ - This site would not be about who 'wins' the argument, but rather about the argument itself. No visible track of which side has more members / voters would be kept.
+ - This site would have no comments function of any sort, past the actual arguments themselves. You could discuss your topic with your own side, in the forum, but there is not meant to be any place where it's even possible to hold an open flamewar if you *wanted* to have one.
+ - This site's ultimate goal is to allow people to have fun while 'winning a battle' for a cause they believe in - providing multi-PoV summaries of a topic is the secondary goal of note.
+
 We all have our biases - let's be proud of them! Rather, let's be proud of them - together.
