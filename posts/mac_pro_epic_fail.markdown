@@ -40,3 +40,10 @@ If I can't figure out a solution to this, I'll have to buy a new Mac Pro tomorro
 If you've read this far, phew, you deserve a cookie. That was one... *long*... post.
 
 Unfortunately, the cookie is a lie.
+
+Update
+------
+
+After getting my hands on another Mac Pro and some other equipment, I started trading out pieces and parts to see what was bad - turns out my wonderful brand new NVIDIA GeForce 8800 GT is bad. Inserted in either of the Mac Pros, it caused kernel panics on boot. I'm going to try to see if Apple will replace it or something, but I dunno... we'll see.
+
+Until then, struggling along with three of the normal lowest-end-available video cards for the Mac Pro - GOD EVE Online skips when running on one of those! It's just painful.
