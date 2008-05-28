@@ -44,6 +44,6 @@ Unfortunately, the cookie is a lie.
 Update
 ------
 
-After getting my hands on another Mac Pro and some other equipment, I started trading out pieces and parts to see what was bad - turns out my wonderful brand new NVIDIA GeForce 8800 GT is bad. Inserted in either of the Mac Pros, it caused kernel panics on boot. I'm going to try to see if Apple will replace it or something, but I dunno... we'll see.
+After getting my hands on another Mac Pro and some other equipment, I started trading out pieces and parts to see what was bad - turns out my wonderful brand new [NVIDIA GeForce 8800 GT](http://www.nvidia.com/page/geforce_8800.html "NVIDIA GeForce 8800 product page") is bad. Inserted in either of the Mac Pros, it caused kernel panics on boot. I'm going to try to see if Apple will replace it or something, but I dunno... we'll see.
 
-Until then, struggling along with three of the normal lowest-end-available video cards for the Mac Pro - GOD EVE Online skips when running on one of those! It's just painful.
+Until then, struggling along with three of the normal lowest-end-available ([NVIDIA GeForce 7300](http://www.nvidia.com/page/geforce_7300.html "NVIDIA GeForce 7300 product page")) video cards for the Mac Pro - GOD EVE Online skips when running on one of those! It's just painful.
