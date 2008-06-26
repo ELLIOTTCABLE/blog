@@ -9,10 +9,11 @@
     / %link{:rel => 'alternate', :href => '/posts/feed.rss', :type => 'application/rss+xml', :title => 'Feed (RSS 2.0)'}/
     / %link{:rel => 'alternate', :href => '/posts/feed.atom', :type => 'application/atom+xml', :title => 'Feed (Atom)'}/
   %body
-    %form#search{ :action => "#", :method => "get" }
+    %form#search{ :action => "http://www.google.com/cse", :method => "get" }
       %fieldset
         %legend search
         %label{ :for => "query" } query
+        %input{ :name => "cx", :type => "hidden", :value => "008195820882350425138:py-r17o9ygw" }/
         %input#query{ :tabindex => "1", :name => "query", :type => "text" }/
     
     #content
