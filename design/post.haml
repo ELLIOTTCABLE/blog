@@ -2,15 +2,24 @@
 !!! 1.1
 %html{:xmlns => 'http://www.w3.org/1999/xhtml', :'xml:lang' => 'en'}
   %head
-    %meta{:'http-equiv' => 'Content-Type', :content => 'application/xhtml+xml;charset=utf-8'}
+    %meta{:'http-equiv' => 'Content-Type', :content => 'application/xhtml+xml;charset=utf-8'}/
     %title= title
-    %link{:rel => 'stylesheet', :href => '../design/main.css', :type => 'text/css;charset=utf-8'}
-    / %link{:rel => 'alternate', :href => '/posts/feed.rss', :type => 'application/rss+xml', :title => 'Feed (RSS 2.0)'}
-    / %link{:rel => 'alternate', :href => '/posts/feed.atom', :type => 'application/atom+xml', :title => 'Feed (Atom)'}
+    %link{:rel => 'stylesheet', :href => '../design/main.css', :type => 'text/css;charset=utf-8'}/
+    %link{ :href => "http://creativecommons.org/licenses/by-nc-sa/3.0/", :rel => "copyright", :type => "text/html;charset=utf-8" }/
+    / %link{:rel => 'alternate', :href => '/posts/feed.rss', :type => 'application/rss+xml', :title => 'Feed (RSS 2.0)'}/
+    / %link{:rel => 'alternate', :href => '/posts/feed.atom', :type => 'application/atom+xml', :title => 'Feed (Atom)'}/
   %body
-    %h1= title
-    #content= content
+    %form#search{ :action => "#", :method => "get" }
+      %fieldset
+        %legend search
+        %label{ :for => "query" } query
+        %input#query{ :tabindex => "1", :name => "query", :type => "text" }/
+    
+    #content
+      %h1= title
+      = content
+    
     #footer
       :markdown
-        return [home](../ "blog root") | powered by [git-blog](http://github.com/elliottcable/git-blog "elliottcable's git-blog on GitHub"), by [elliottcable](http://elliottcable.name "elliottcable")
+        return [home](../ "blog root") | powered by [git-blog](http://github.com/elliottcable/git-blog "elliottcable's git-blog on GitHub")
     %script{:src => 'http://stats.elliottcable.info/hit.js', :type => 'text/javascript'}

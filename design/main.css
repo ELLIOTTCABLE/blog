@@ -1,26 +1,90 @@
-@import url("http://design.elliottcable.info/ystyle/compiled/ystyle.css");
+@import url('http://design.elliottcable.info/960/css/reset.css');
+@import url('http://design.elliottcable.info/css/fonts.css') screen, print;
 
-body {
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  width: 100%;
+  height: 100%;
+  font: 11pt/1.7 "Fontin Regular", Georgia, "Times New Roman", Times, serif;
+}
+
+#search {
+  padding: 1em;
+  background-color: #EEEEEE;
+  border-bottom: 4px solid #CCCCCC;
+}
+#search legend { display: none; }
+#search label { display: none; }
+#search input {
+  display: block;
+  border: none;
+  width: 100%;
+  font: 325%/1.3 Anivers, Monaco, monospace;
+  background: transparent;
+}
+
+/* -- -- -- -- -- ! -- -- -- -- -- */
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+code, pre, tt { font-family: Inconsolata; }
+sup { vertical-align: super; font-size: 75%; font-weight: bold; }
+
+/* -- -- -- -- -- ! -- -- -- -- -- */
+
+#content {
   width: 45em;
   margin: auto;
-  font: 11pt/1.6 Georgia, "Times New Roman", Times, serif;
 }
 
-h1 {
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+  font-family: "Museo 100", Helvetica, Geneva, sans-serif;
   text-align: center;
-  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   text-transform: uppercase;
+  margin-bottom: 0.5em;
 }
 
-#posts {
+#content h1 { font-size: 400%; }
+#content h2 { font-size: 325%; }
+#content h3 { font-size: 175%; }
+#content h4 { font-size: 145%; }
+#content h5 { font-size: 115%; }
+#content h6 { font-size: 095%%; }
+
+#content p {
+  padding-bottom: 1.2em;
+  text-align: justify;
+}
+
+#content #posts {
   
 }
 
-#posts li {
+#content #posts li {
   list-style-type: none;
   text-align: center;
   font-size: 150%;
 }
+
+/* -- -- -- -- -- ! -- -- -- -- -- */
+
+.footnotes {
+  padding: 1em;
+  background-color: #EEEEEE;
+  border-top: 4px solid #CCCCCC;
+  font-size: 90%;
+}
+.footnotes hr { display: none; }
+.footnotes ol li { padding-bottom: 1.2em; }
+.footnotes ol li p { display: inline; }
 
 #footer {
   padding-right: 5px;
