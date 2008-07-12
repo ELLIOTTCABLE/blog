@@ -52,21 +52,26 @@ sup { vertical-align: super; font-size: 75%; font-weight: bold; }
   margin-bottom: 0.5em;
 }
 
-#content h1 { font-size: 400%; }
-#content h2 { font-size: 325%; }
-#content h3 { font-size: 175%; }
-#content h4 { font-size: 145%; }
-#content h5 { font-size: 115%; }
-#content h6 { font-size: 095%%; }
+#content h1 { font-size: 350%; }
+#content h2 { font-size: 200%; }
+#content h3 { font-size: 125%; }
+#content h4,
+#content h5,
+#content h6 { font-size: 100%; }
+
+#content p, pre {
+  padding-bottom: 1.2em;
+}
 
 #content p {
-  padding-bottom: 1.2em;
   text-align: justify;
 }
 
-#content #posts {
-  
+#content pre {
+  margin-left: 1em;
 }
+
+#content #posts {}
 
 #content #posts li {
   list-style-type: none;
