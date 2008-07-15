@@ -1,6 +1,10 @@
 Installing the Firefly Media Server (mt-daapd) on OS X
 ======================================================
 
+*Update:* It [appears](http://forums.fireflymediaserver.org/viewtopic.php?t=7970 "Forum thread")
+there is a pre-built binary for OS X available, it's just not prominently
+displayed.
+
 I just finished installing the [Firefly Media Server](http://fireflymediaserver.org "Firefly Media Server")
 (previously known as mt-daapd, and still a commandline tool under that name).
 It's really cool, much faster than iTunes, and doesn't require that iTunes be
