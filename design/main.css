@@ -81,6 +81,17 @@ sup { vertical-align: super; font-size: 75%; font-weight: bold; }
 
 /* -- -- -- -- -- ! -- -- -- -- -- */
 
+#content .video {
+  display: table !important;
+  margin: auto;
+}
+#content .video > * {
+  display: table-cell !important;
+  vertical-align: middle !important;
+}
+
+/* -- -- -- -- -- ! -- -- -- -- -- */
+
 .footnotes {
   padding: 1em;
   background-color: #EEEEEE;
