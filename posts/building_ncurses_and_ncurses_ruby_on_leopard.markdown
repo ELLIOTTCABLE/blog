@@ -3,16 +3,16 @@ Building Ncurses and ncurses-ruby on Leopard
 
 I just finished spending a week banging my head against a problem in [rat][],
 where my [XMPP][] connection would stop receiving any data (status updates,
-messages, whatever) whenever `[Ncurses][]::[getch][]` was looping. This
-occurred across threads, across Ruby instances, across everything running in
-the system as far as I could tell (though a lot of this network I/O and
-terminal control stuff is far over my high-level programming head). It was
-driving me crazy, until I sought (sidenote: I hate that word. It should
-totally be sook, or possibly seeked - but sook looks so much cooler) out help
-on the xmpp4r mailing list.
+messages, whatever) whenever [`Ncurses`][Ncurses]`::`[`getch`][getch] was
+looping. This occurred across threads, across Ruby instances, across
+everything running in the system as far as I could tell (though a lot of this
+network I/O and terminal control stuff is far over my high-level programming
+head). It was driving me crazy, until I [sought][xmpp4r-post] (sidenote: I
+hate that word. It should totally be sook, or possibly seeked - but sook looks
+so much cooler) out help on the [xmpp4r][] [mailing list][xmpp4r-ml].
 
 After some emails were exchanged and the problem was clarified, I reduced the
-problem to a rather minimal test case that pretty much just connected to XMPP
+problem to [a rather minimal test case][test-case] that pretty much just connected to XMPP
 and then started looping `Ncurses::getch` (not even bothering to do anything
 with the input). It failed as all related code had been on my computers (not
 receiving any XMPP stream data). However, when I sent this test case to the
@@ -98,8 +98,12 @@ installation, so be careful of doing so.
 *[XMPP]: Extensible Messaging and Presence Protocol
 [Ncurses]: http://ncurses-ruby.berlios.de/ "ncurses-ruby"
 [getch]: http://www.mkssoftware.com/docs/man3/curs_getch.3.asp "Ncurses' getch() method"
+[xmpp4r-post]: https://mail.gna.org/public/xmpp4r-devel/2008-07/msg00022.html "[XMPP4R] Weird Ncurses and threading problems"
+[xmpp4r]: http://home.gna.org/xmpp4r/ "XMPP4R: XMPP/Jabber Library for Ruby"
+[xmpp4r-ml]: https://mail.gna.org/listinfo/xmpp4r-devel/ "xmpp4r-devel info page"
+[test-case]: http://gist.github.com/2950 "gist: 2950 by elliottcable – GitHub"
 [^optimize]: You can run this to figure out what flag you should use:
   `echo -j$(sysctl -a | grep 'hw.physicalcpu:' | awk '{gsub("hw.physicalcpu: ", ""); print}')`.
   For instance, I used **`9`** because my Mac Pro has 2 processors with 4
-  cores each - thus, 8 total cores, plus 1 is 9) - this will optimize the
+  cores each (thus, 8 total cores, plus 1 is 9) - this will optimize the
   process for your computer, and make it run as fast as possible.
