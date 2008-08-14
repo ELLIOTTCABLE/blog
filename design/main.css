@@ -40,24 +40,25 @@ sup { vertical-align: super; font-size: 75%; font-weight: bold; }
   margin: auto;
 }
 
-#content h1,
-#content h2,
-#content h3,
-#content h4,
-#content h5,
-#content h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Museo 100", Helvetica, Geneva, sans-serif;
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 0.5em;
+  margin: 0 0.5em 0.5em;
+  margin-left
 }
 
-#content h1 { font-size: 350%; }
-#content h2 { font-size: 200%; }
-#content h3 { font-size: 125%; }
-#content h4,
-#content h5,
-#content h6 { font-size: 100%; }
+h1 { font-size: 350%; }
+h2 { font-size: 200%; }
+h3 { font-size: 125%; }
+h4,
+h5,
+h6 { font-size: 100%; }
 
 #content p, pre {
   padding-bottom: 1.2em;
