@@ -22,4 +22,10 @@
     #footer
       :markdown
         return [home](../ "blog root") | powered by [git-blog](http://github.com/elliottcable/git-blog "elliottcable's git-blog on GitHub")
-    %script{:src => 'http://stats.elliottcable.info/hit.js', :type => 'text/javascript'}
+    
+    :javascript
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    :javascript
+      var pageTracker = _gat._getTracker("UA-5294724-2");
+      pageTracker._trackPageview();
