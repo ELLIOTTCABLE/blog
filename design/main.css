@@ -78,6 +78,14 @@ pre {
 
 
 
+/* -- -- -- -- -- ! -- -- -- -- -- */ /* Tables */
+
+table {}
+
+table tr td {
+  padding: 3px 0.5em;
+}
+
 /* -- -- -- -- -- ! -- -- -- -- -- */ /* Video */
 
 #post .video {
