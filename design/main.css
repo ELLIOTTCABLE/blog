@@ -28,6 +28,12 @@ html, body {
 
 /* -- -- -- -- -- ! -- -- -- -- -- */ /* Basics */
 
+/* Page containers */
+#post, #index {
+  width: 45em;
+  margin: auto;
+}
+
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 code, pre, tt { font-family: Inconsolata; }
@@ -70,27 +76,24 @@ pre {
 
 /* -- -- -- -- -- ! -- -- -- -- -- */ /* Post pages */
 
-#content {
-  width: 45em;
-  margin: auto;
-}
+
 
 /* -- -- -- -- -- ! -- -- -- -- -- */ /* Video */
 
-#content .video {
+#post .video {
   display: table !important;
   margin: auto;
 }
-#content .video > * {
+#post .video > * {
   display: table-cell !important;
   vertical-align: middle !important;
 }
 
 /* -- -- -- -- -- ! -- -- -- -- -- */ /* Index page */
 
-#content #posts {}
+#index #posts {}
 
-#content #posts li {
+#index #posts li {
   list-style-type: none;
   text-align: center;
   font-size: 150%;
