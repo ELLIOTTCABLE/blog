@@ -26,19 +26,12 @@ html, body {
   background: transparent;
 }
 
-/* -- -- -- -- -- ! -- -- -- -- -- */
+/* -- -- -- -- -- ! -- -- -- -- -- */ /* Basics */
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 code, pre, tt { font-family: Inconsolata; }
 sup { vertical-align: super; font-size: 75%; font-weight: bold; }
-
-/* -- -- -- -- -- ! -- -- -- -- -- */
-
-#content {
-  width: 45em;
-  margin: auto;
-}
 
 h1,
 h2,
@@ -60,27 +53,29 @@ h4,
 h5,
 h6 { font-size: 100%; }
 
-#content p, pre {
+/* All 'body' block elements */
+p, pre {
   padding-bottom: 1.2em;
 }
 
-#content p {
+/* Textual block elements */
+p {
   text-align: justify;
 }
 
-#content pre {
+/* Stand-out block elements */
+pre {
   margin-left: 1em;
 }
 
-#content #posts {}
+/* -- -- -- -- -- ! -- -- -- -- -- */ /* Post pages */
 
-#content #posts li {
-  list-style-type: none;
-  text-align: center;
-  font-size: 150%;
+#content {
+  width: 45em;
+  margin: auto;
 }
 
-/* -- -- -- -- -- ! -- -- -- -- -- */
+/* -- -- -- -- -- ! -- -- -- -- -- */ /* Video */
 
 #content .video {
   display: table !important;
@@ -91,7 +86,17 @@ h6 { font-size: 100%; }
   vertical-align: middle !important;
 }
 
-/* -- -- -- -- -- ! -- -- -- -- -- */
+/* -- -- -- -- -- ! -- -- -- -- -- */ /* Index page */
+
+#content #posts {}
+
+#content #posts li {
+  list-style-type: none;
+  text-align: center;
+  font-size: 150%;
+}
+
+/* -- -- -- -- -- ! -- -- -- -- -- */ /* Footers */
 
 .footnotes {
   padding: 1em;
