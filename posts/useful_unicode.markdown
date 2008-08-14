@@ -6,7 +6,7 @@ I keep losing track of these… so I am going to document them once and for all 
 Apple & Technical
 -----------------
  Symbol | Unicode | Description
-:------:|--------:|:------------
+-------:|:-------:|:------------
  ⌘      | U+2318  | Command key / Celtic knot
  ⌥      | U+2325  | Option key
  ⌫      | U+232B  | Delete / Backspace
@@ -34,7 +34,7 @@ Apple & Technical
 Mathematical / Logical
 ----------------------
  Symbol | Unicode | Description
-:------:|--------:|:------------
+-------:|:-------:|:------------
  ×      | U+00D7  | Multiplication
  ÷      | U+00F7  | Division
  ∕      | U+2215  | Division slash
@@ -58,22 +58,20 @@ Mathematical / Logical
 
 Musical
 -------
- Symbol | Unicode                   | Description
-:------:|--------------------------:|:-----------
- ������      | U+1D11E (U+D834 + U+DD1E) | G clef
- ������      | U+1D122 (U+D834 + U+DD22) | F clef
- ♭      | U+266D                    | Flat sign
- ♯      | U+266F                    | Sharp sign
- ♮      | U+266E                    | Natural sign
- ♩      | U+2669                    | Quarter note
- ♪      | U+266A                    | Eighth note
- ♫      | U+266B                    | Double eight notes
- ♬      | U+266C                    | Double sixteenth notes
+ Symbol | Unicode | Description
+-------:|:-------:|:-----------
+ ♭      | U+266D  | Flat sign
+ ♯      | U+266F  | Sharp sign
+ ♮      | U+266E  | Natural sign
+ ♩      | U+2669  | Quarter note
+ ♪      | U+266A  | Eighth note
+ ♫      | U+266B  | Double eight notes
+ ♬      | U+266C  | Double sixteenth notes
 
 Other useful
 ------------
  Symbol | Unicode | Description
-:------:|--------:|:------------
+-------:|:-------:|:------------
  ‽      | U+203D  | Interrobang
  ‼      | U+203C  | Double exclamation
  ⁇      | U+2047  | Double question
@@ -91,7 +89,7 @@ Other useful
 Fun
 ---
  Symbol | Unicode | Description
-:------:|--------:|:------------
+-------:|:-------:|:------------
  ⍨      | U+2368  | I feel sick!
  ⍩      | U+2369  | Blah blah blah
  ⍣      | U+2363  | Star w/ eyes
