@@ -39,6 +39,7 @@ Mathematical / Logical
  ÷      | U+00F7  | Division
  ∕      | U+2215  | Division slash
  ∑      | U+2211  | Summation
+ λ      | U+03BB  | Lambda
  ∩      | U+2229  | Intersection
  ∪      | U+222A  | Union
  ∫      | U+222B  | Integral
