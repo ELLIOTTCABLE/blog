@@ -29,7 +29,7 @@ So, without further ado... pop an Arch, bitchez!
 
 If you're interested in playing with Arch, pop and instance and play with it -
 it's fully configured for EC2, so when you instantiate it, you can use your
-EC2 keychain pubkey to login to the root account (make sure to pass a -k
+EC2 keychain pubkey to login to the root account (make sure to pass a `-k`
 argument to `ec2-run-instances` for this to work). Password logins are
 disabled by default, and a few other things are not quite standard (basic Ruby
 is installed for the EC2 tools, and whatnot)... but other than that it's a
