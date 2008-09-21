@@ -4,7 +4,7 @@ Arch Linux and EC2
 I just wanna put this out there: [Arch Linux](http://archlinux.org/ "Arch Linux homepage")
 is absofuckinglutely awesome.
 
-I recently found out the hard way (specifically, `cp: writing `access.log': No space left on
+I recently found out the hard way (specifically, `cp: writing 'access.log': No space left on
 device`) that the only Arch Linux [AMI](http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=101 "Amazon Machine Image")
 available [*ami-3132d758*], also being the one my server was created from, was
 set up very broken - for some reason, the creator saw fit to give the root
