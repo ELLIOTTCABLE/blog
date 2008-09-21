@@ -18,6 +18,7 @@ html, body {
 }
 #search legend { display: none; }
 #search label { display: none; }
+#search fieldset { border: none; }
 #search input {
   display: block;
   border: none;
