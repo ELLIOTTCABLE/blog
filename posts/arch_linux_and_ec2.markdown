@@ -6,10 +6,10 @@ is absofuckinglutely awesome.
 
 I recently found out the hard way (specifically, `cp: writing 'access.log': No space left on
 device`) that the only Arch Linux [AMI](http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=101 "Amazon Machine Image")
-available [*ami-3132d758*], also being the one my server was created from, was
-set up very broken - for some reason, the creator saw fit to give the root
-drive only 1GB of storage space. So I had to create my own Arch AMI from
-scratch. This meant I had to learn...
+available, also being the one my server was created from, was set up very
+broken - for some reason, the creator saw fit to give the root drive only 1GB
+of storage space (*ami-3132d758* if you're curious). So I had to create my own
+Arch AMI from scratch. This meant I had to learn...
 
 - How to use [VMWare](http://www.vmware.com/products/fusion/ "VMWare Fusion")
 - How to install a Linux on my own, from scratch
