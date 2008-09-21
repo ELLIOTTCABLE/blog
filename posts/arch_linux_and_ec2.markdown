@@ -50,4 +50,4 @@ The pacdiff commands will present you with updated versions of various system
 configuration files, ensure that your settings are copied into the new
 versions.
 
-Anyway, I hope this AMI serves somebody well
+Anyway, I hope this AMI serves somebody well. It's certainly making me happy!
