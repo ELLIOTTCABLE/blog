@@ -24,7 +24,7 @@ community due to said personal problems.
 I will out and admit that I’m an annoying person. Hell. Really annoying. In
 social channels, I'd probably be considered a troll and get banned as well. My
 point is that this very fact makes me the perfect example of my own argument -
-if an op is going to go of the handle and ban somebody who isn't, in fact,
+if an op is going to go off the handle and ban somebody who isn't, in fact,
 reducing the quality of the channel to users… that person will be me.
 
 The best technical communities will be unmoderated - the assholes, the foreign,
