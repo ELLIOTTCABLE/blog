@@ -50,7 +50,7 @@ of like a separate mini-game. Howe you choose to play each stage affects the
 other stages, and your creature retains properties you give it from one stage
 into the next… but other than that, the stages are rather disparate.
 
-The first stage is the one relevant to our topic — the ['cell' stage][cell stage].
+The first stage is the one relevant to our topic — the ['cell' stage][cell].
 In this stage, the player's creature is a simple 'cell' organism in a
 (relatively) huge pool of '[primordial soup][]'. In this stage, the playing area is
 essentially two-dimensional, just like our desktops currently are (if you've
@@ -88,7 +88,7 @@ to the left.
 
 [Spore]: <http://spore.com/> (The Spore home page)
 [EA]: <http://ea.com/> (The Electronic Arts homepage)
-[cell stage]: <http://www.youtube.com/watch?v=WoP5thatpr4> (A video of Spore's 'cell' stage on Youtube)
+[cell]: <http://www.youtube.com/watch?v=WoP5thatpr4> (A video of Spore's 'cell' stage on Youtube)
 [primordial soup]: <http://en.wikipedia.org/wiki/Abiogenesis> (Primordial Soup on Wikipedia)
 [microevolution]: <http://en.wikipedia.org/wiki/Microevolution> (Microevolution on Wikipedia)
 [flOw]: <http://intihuatani.usc.edu/cloud/flowing/black.html> (A flash web-game similar to the initial stage of Spore)
@@ -104,7 +104,7 @@ simultaneously moves all windows out from all other windows (temporarily), and
 floats you 'up' enough to see all the windows you can currently see, but in
 their new positions — and then float back 'down' to your original view (re-
 positioning the windows as they originally were) after selecting one to be
-'moved to the front' (i.e. floated up to your [original] current level).
+'moved to the front' (i.e. floated up to your current level).
 
 The ability to 'bookmark' a certain view would be essential, so that you could
 quickly jump between tasks without too much time spent tediously floating
