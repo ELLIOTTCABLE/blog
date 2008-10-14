@@ -27,10 +27,9 @@ the second is a no-brainer as well.
     
 All that's left is getting and building v8 itself — for this, you'll need
 [Subversion][] (Google's still a bit behind on the [git][] boat,
-unfortunately), so we'll install that with MacPorts as well:
+unfortunately), but that's included by default with every Leopard install:
     
-    sudo /opt/local/bin/port install subversion # You'll need to enter your account password
-    /opt/local/bin/svn checkout http://v8.googlecode.com/svn/trunk/ ./v8
+    svn checkout http://v8.googlecode.com/svn/trunk/ ./v8
     cd ./v8
     scons sample=shell
     
