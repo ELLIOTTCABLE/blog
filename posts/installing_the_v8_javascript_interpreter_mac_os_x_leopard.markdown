@@ -34,23 +34,29 @@ unfortunately), so we'll install that with MacPorts as well:
     cd ./v8
     scons sample=shell
     
-Now you've got a working v8-powered JavaScript shell! To launch it an try it
-out, run the following:
-    
-    ./shell
-    
-You can also pass it a file to be run:
-    
-    ./shell my_file.js
-    
-Now, be careful — this is not a browser, so a lot of the basic JavaScript
-idioms you may be familiar with won't be available/make sense.
-
-Finally, if you're anything like me, you'll want to have that shell available
+If you're anything like me, you'll want to have that shell available
 from anywhere - run something like this:
     
-    sudo ln -s ./shell /usr/bin/js
+    sudo ln -s ./shell /usr/bin/v8
     
+Now you've got a working v8-powered JavaScript shell! To launch it and try it
+out, try the following:
+    
+    -- v8
+    V8 version 0.3.4.1
+    > print('Hello, world!');
+    Hello, world!
+    > ^C
+    
+You can also pass it a file to be run:
+
+    -- echo 'print("Hello, world!");' > test.js
+    -- v8 test.js
+    Hello, world!
+    
+Be careful, however — this is not a browser, so a lot of the basic JavaScript
+idioms you may be familiar with won't be available/make sense.
+
 Have fun playing with 'purist' javascript!
 
 [msteigerwalt]: <http://msteigerwalt.com/> "Michelle Steigerwalt's home page"
