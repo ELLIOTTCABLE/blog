@@ -20,10 +20,10 @@ the second is a no-brainer as well.
     
     cd ~/Code/src # or wherever you want to keep the v8 source
     sudo /opt/local/bin/port install python25 # You'll need to enter your account password
-    curl -O http://prdownloads.sourceforge.net/scons/scons-1.1.0.tar.gz ./scons-1.1.0.tar.gz
-    tar -xzvf ./scons-1.1.0.tar.gz ./scons-1.1.0
+    curl -O http://superb-east.dl.sourceforge.net/sourceforge/scons/scons-1.1.0.tar.gz
+    tar -xzvf ./scons-1.1.0.tar.gz
     cd ./scons-1.1.0
-    /opt/local/bin/python setup.py install
+    sudo /opt/local/bin/python setup.py install
     
 All that's left is getting and building v8 itself — for this, you'll need
 [Subversion][] (Google's still a bit behind on the [git][] boat,
@@ -36,7 +36,7 @@ unfortunately), but that's included by default with every Leopard install:
 If you're anything like me, you'll want to have that shell available
 from anywhere - run something like this:
     
-    sudo ln -s ./shell /usr/bin/v8
+    sudo ln -s ~/Code/src/v8/shell /usr/bin/v8
     
 Now you've got a working v8-powered JavaScript shell! To launch it and try it
 out, try the following:
