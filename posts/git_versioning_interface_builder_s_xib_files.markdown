@@ -29,7 +29,7 @@ something new about Cocoa, after nearly a year of completely failing to do so.
 
 Now, to dispense with the dry history that nobody cares about save me, let's
 get on with the point of this article. [git][]. That ever-so-sexy source
-code management / version control system? The one that's [all the rage][gitissbetter] nowadays?
+code management / version control system? The one that's [all the rage][gitisbetter] nowadays?
 This isn't an article about how awesome git is and how you should use git, so
 I'll not say too much about it, but if you're not using it, you should at
 least check it out. Especially if you're still using [Subversion][] (*eww!*).
