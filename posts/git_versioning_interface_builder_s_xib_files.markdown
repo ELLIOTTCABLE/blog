@@ -193,6 +193,8 @@ elements in the Interface Builder, and those are (of course) made on purpose.
 Whether or not they should be edited by hand, well... that's up to you, it
 depends on what part of it you're planning to modify.
 
+  [gist]: <http://gist.github.com/> (Gist, the best git-pastie service EVAR)
+
 ### `maxID`
 <script src="http://gist.github.com/40402.js"></script>
 
