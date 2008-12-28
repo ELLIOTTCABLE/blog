@@ -21,8 +21,8 @@ Approach (Second Edition)*][c-programming], and subsequently getting bogged
 down and not actually learning much of anything useful.
 
 I finally gave up, and skipping over the Objective-C specific book that I had
-bought, [Stephen G. Kochan][Kochan]'s [*Programming in Objective-C*]
-[objective-c-programming], I proceeded directly to [Aaron Hillegass][Hillegass]'
+bought, [Stephen G. Kochan][Kochan]'s [*Programming in Objective-C*][objective-c-programming]
+, I proceeded directly to [Aaron Hillegass][Hillegass]'
 [*Cocoa® Programming for Mac® OS X*][cocoa-programming]. This rubbed me
 against the grain, but so far it has resulted in me actually learning
 something new about Cocoa, after nearly a year of completely failing to do so.
@@ -224,8 +224,8 @@ Interface Builder just changed. At this point, I use those sexy little blue
 
 See the next two sections for further information of the rest of the workflow,
 since GitX only provides staging functionality (as of this posting, though
-hopefully Pieter and I can work out a GUI to do more of this - see [some]
-[ticket1] of my [tickets][ticket2]).
+hopefully Pieter and I can work out a GUI to do more of this - see [some][ticket1]
+of my [tickets][ticket2]).
 
   [GitX]: <http://github.com/pieter/gitx/wikis/home> (GitX's wiki on GitHub)
   [Pieter]: <http://frim.nl/> (Ciarán Walsh's homepage)
