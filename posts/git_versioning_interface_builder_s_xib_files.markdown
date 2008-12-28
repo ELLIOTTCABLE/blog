@@ -76,7 +76,9 @@ So, without further ado, let me go through what I've learned.
 Types of hunks and changes
 --------------------------
 ### Moving windows in Interface Builder
-<script src="http://gist.github.com/40195.js"></script>
+<script src="http://gist.github.com/40195.js">
+  // 
+</script>
 
 I see these hunks all the time. I always think, apparently mistakenly, that *I*
 have control over the locations of the windows when I'm working. But god
@@ -97,7 +99,9 @@ Unless I specifically want to change the starting location of a window with a
 commit, I never stage these hunks.
 
 ### Sizing changes
-<script src="http://gist.github.com/40196.js"></script>
+<script src="http://gist.github.com/40196.js">
+  // 
+</script>
 
 These also appear a lot in my diffs. Any time you change the size of an
 element in the Interface Builder, these show up. Often matching to the classes
@@ -110,7 +114,9 @@ intentionally re-size anything) — in those cases, I do *not* stage these h
 Again, these are manually editable if you so please.
 
 ### Identifier changes
-<script src="http://gist.github.com/40200.js"></script>
+<script src="http://gist.github.com/40200.js">
+  // 
+</script>
 
 These get complicated. These IDs reference frozen objects in the NIB system,
 as I understand it. When the XIB is compiled into a NIB, objects are created
@@ -158,7 +164,9 @@ block that was [added below][added].
   [added]: <http://github.com/elliottcable/cocoa_play/commit/a2961c24d51a919f083022a3236c05403f2719ee#L0R2812>
 
 ### Flag changes
-<script src="http://gist.github.com/40398.js"></script>
+<script src="http://gist.github.com/40398.js">
+  // 
+</script>
 
 These are an easy one. These, in my experience, are nearly always intentional.
 They seem to result exclusively from options that you specifically change in an
@@ -172,7 +180,9 @@ value maps to in terms of object options, I wouldn't suggest manually changing
 these.
 
 ### Sequences
-<script src="http://gist.github.com/40400.js"></script>
+<script src="http://gist.github.com/40400.js">
+  // 
+</script>
 
 Another easy one, I find these to be pretty easy — they seem to appear in
 conjunction with a large, purposeful addition or removal of objects, and are
@@ -196,7 +206,9 @@ depends on what part of it you're planning to modify.
   [gist]: <http://gist.github.com/> (Gist, the best git-pastie service EVAR)
 
 ### `maxID`
-<script src="http://gist.github.com/40402.js"></script>
+<script src="http://gist.github.com/40402.js">
+  //
+</script>
 
 Anytime the `key="maxID"` element is changed, stage its hunk. It is vitally
 important, and not doing so will cause Interface Builder to crash.
