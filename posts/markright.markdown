@@ -24,18 +24,20 @@ to mark-up plain text documents. Most of these derive from age-old standards
 established on Usenet and in email discussions, or even on the original
 BBSes that formed the original "internet".
 
+Unfortunately, everything is not well in paradise. While Markdown is a huge
+step in the right direction, there are still things that nag me, and I surmise
+might [nag][t1] [others][t2] as well.
+
   [Markdown]: <http://daringfireball.net/projects/markdown/syntax> "Markdown, the premier markup syntax"
   [Textile]: <http://hobix.com/textile/> "Textile, the lame alternative to Markdown"
   *[IMVHO]: in my very humble opinion
   *[HTML]: HyperText Markup Language
   *[BBS]: Bulletin Board System
+  [t1]: <http://twitter.com/leethal/status/1257331519> "August Lilleaas: @elliottcable Let's go get '_em_!"
+  [t2]: <http://twitter.com/judofyr/status/1257306965> "Magnus Holm: @elliottcable I'm with you!"
 
-Problems
---------
-However, everything is not well in paradise. While Markdown is a huge step in
-the right direction, there are still things that nag me, and I surmise might
-[nag][t1] [others][t2].
-
+General problems
+----------------
 First of all, there needs to be more universal support for the [awesome
 extensions][PHP Markdown Extras] provided by [PHP Markdown][]. I'm not too worried about the table
 support, that seems to be getting into a Textile-ish realm of "HTML
@@ -47,13 +49,11 @@ anal about being whitespace-agnostic. I get really annoyed when I have to
 break my 78-character-line rule in a plaintext file for a Markdown link or
 something.
 
-  [t1]: <http://twitter.com/leethal/status/1257331519> "August Lilleaas: @elliottcable Let's go get '_em_!"
-  [t2]: <http://twitter.com/judofyr/status/1257306965> "Magnus Holm: @elliottcable I'm with you!"
   [PHP Markdown Extras]: <http://michelf.com/projects/php-markdown/extra/> "Markdown extensions implemented by PHP Markdown"
   [PHP Markdown]: <http://michelf.com/projects/php-markdown/> "PHP Markdown processing library"
 
-Inline elements
----------------
+Problems with inline elements
+-----------------------------
 Now, this is the main point of this post. The single most annoying thing about
 Markdown is that it doesn't follow traditional wisdom regarding marking up
 inline style elements.
