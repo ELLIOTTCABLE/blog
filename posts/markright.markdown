@@ -83,7 +83,7 @@ data. Thus, with the most recent versions of HTML, these elements have been
 deprecated in favour of their new replacements: `<em>` for emphasized text,
 and `<strong>` for *more* emphasized text. (On a bit of a sidenote, `<u>`
 received no replacement, for a multitude of reasons. Primarily among them,
-underlining on the web has come to be seen as a halmark of a hypertext link,
+underlining on the web has come to be seen as a hallmark of a hypertext link,
 and it is somewhat bad form to superfluously underline an element that *isn't*
 such a link.)
 
