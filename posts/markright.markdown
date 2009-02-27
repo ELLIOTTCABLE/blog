@@ -38,11 +38,11 @@ might [nag][t1] [others][t2] as well.
 
 General problems
 ----------------
-First of all, there needs to be more universal support for the [awesome
-extensions][PHP Markdown Extras] provided by [PHP Markdown][]. I'm not too worried about the table
-support, that seems to be getting into a Textile-ish realm of "HTML
-replacement", but the `<abbr>` support is absolutely awesome (I'm even using
-it in this post!).
+First of all, there needs to be more universal support for the
+[awesome extensions][PHP Markdown Extras] provided by [PHP Markdown][]. I'm
+not too worried about the table support, that seems to be getting into a
+Textile-ish realm of "HTML replacement", but the `<abbr>` support is
+absolutely awesome (I'm even using it in this post!).
 
 Second, and this is a small but important one, implementations need to be more
 anal about being whitespace-agnostic. I get really annoyed when I have to
