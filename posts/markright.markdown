@@ -13,12 +13,12 @@ language and syntax designed for editing large documents with complex
 structures. There's only one problem with this premise: we already *have* a
 language for marking up large, complex documents: it's called HTML.
 
-Markdowns goal (or at least, the places where it ends up being strong) is
+Markdown's goal (or at least, the places where it ends up being strong) is
 different. It's meant for "small things". Places where the entirety of HTML is
 unnecessary. It's meant to be light, clean, and sensible.
 
 Another huge benefit of Markdown is the fact that the language itself is also
-quite easily parsable by the human eye at a glance. That is, most of Markdowns
+quite easily parsable by the human eye at a glance. That is, most of Markdown's
 elements of markup are simply the things that people have been using for ages
 to mark-up plain text documents. Most of these derive from age-old standards
 established on Usenet and in email discussions, or even on the original
@@ -72,7 +72,7 @@ Markdown breaks from this long-established standard, with the following rules:
 
 Wait, what? This makes no sense. At least, not to a general user. It took me a
 while, but I finally puzzled out Gruber's thought process here: he's mentally
-linked the HTML-specific rules regarding emphasis to Markdowns. To understand
+linked the HTML-specific rules regarding emphasis to Markdown's. To understand
 this, one must first know a little bit of HTMLs history.
 
 Originally, HTML had three elements in this vein: `<b>`, for bold text; `<i>`
