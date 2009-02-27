@@ -39,7 +39,7 @@ might [nag][t1] [others][t2] as well.
 General problems
 ----------------
 First of all, there needs to be more universal support for the
-[awesome extensions][PHP Markdown Extras] provided by [PHP Markdown][]. I'm
+[awesome extensions][PHP-Markdown-Extras] provided by [PHP Markdown][]. I'm
 not too worried about the table support, that seems to be getting into a
 Textile-ish realm of "HTML replacement", but the `<abbr>` support is
 absolutely awesome (I'm even using it in this post!).
@@ -49,7 +49,7 @@ anal about being whitespace-agnostic. I get really annoyed when I have to
 break my 78-character-line rule in a plaintext file for a Markdown link or
 something.
 
-  [PHP Markdown Extras]: <http://michelf.com/projects/php-markdown/extra/> "Markdown extensions implemented by PHP Markdown"
+  [PHP-Markdown-Extras]: <http://michelf.com/projects/php-markdown/extra/> "Markdown extensions implemented by PHP Markdown"
   [PHP Markdown]: <http://michelf.com/projects/php-markdown/> "PHP Markdown processing library"
 
 Problems with inline elements
@@ -155,7 +155,7 @@ must provide proper spacing around an ellipsis, but not all people writing
 documents in Markdown will know how to handle this. Thus, I suggest we eat all
 spaces within and around a sequence of periods, and replace them with the
 context-proper combination of Unicode ellipsis character and Unicode thin
-spaces (see [Wikipedia's summary][wikipedia ellipsis] of [Bringhurst][] on the
+spaces (see [Wikipedia's summary][wikipedia-ellipsis] of [Bringhurst][] on the
 subject). Simply replacing a sequence of three ASCII periods with a Unicode
 ellipsis is, frankly, not enough.
 
@@ -169,7 +169,7 @@ eh?
 Next, hyphens. It's not really visually a big deal, but something nobody seems
 to care about is the proliferation of the hyphen-minus character. Don't know
 what that is? It's the character in the middle of the word "hyphen-minus".
-There's actually a proper Unicode character for a [hyphen][wikipedia hyphen]
+There's actually a proper Unicode character for a [hyphen][wikipedia-hyphen]
 (that is, the dash that separates two parts of a word), I'd love to see any
 single ASCII hyphen-minus characters with no space (only normal characters) on
 either side be replaced by a true hyphen.
@@ -205,6 +205,6 @@ To summarize:
     "[Bob]'s the Macrons]' uncle!]" => “Bob’s the Macrons’ uncle!”
 
   [SmartyPants]: <http://daringfireball.net/projects/smartypants/> "John Gruber's SmartyPants"
-  [wikipedia ellipsis]: <http://en.wikipedia.org/wiki/Ellipsis#Typographical_rules> "The Typographical rules for using Ellipses on Wikipedia"
+  [wikipedia-ellipsis]: <http://en.wikipedia.org/wiki/Ellipsis#Typographical_rules> "The Typographical rules for using Ellipses on Wikipedia"
   [Bringhurst]: <http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style> "Robert Bringhurst's canonical 'The Elements of Typographic Style'"
-  [wikipedia hyphen]: <http://en.wikipedia.org/wiki/Hyphen> "Wikipedia's page on the Hyphen"
+  [wikipedia-hyphen]: <http://en.wikipedia.org/wiki/Hyphen> "Wikipedia's page on the Hyphen"
