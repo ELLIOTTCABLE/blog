@@ -115,7 +115,7 @@ of each "emphasis type" could be, well, *more emphasized*.
 
 Since some people still utilize `/this sort/` of emphasis, I see no reason why
 we shouldn't support it as well. But, since we're already there, why not
-support `\this\` as well? Come to think of it, people using these two sorts of
+support `\this\\` as well? Come to think of it, people using these two sorts of
 emphasis are probably more insistent upon seeing actual italics, not just
 whatever sort of emphasis the designer decided upon (I've seen plenty of
 websites that choose to style `<em>` elements with, say, a light yellow
