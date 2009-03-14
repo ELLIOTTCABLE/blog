@@ -61,7 +61,7 @@ careful, the versions you install may already have/need to have different
 versions, make sure you pass the current version number where I have one
 below):
     
-    $ sudo curl -O ftp://invisible-island.net/ncurses/ncurses.tar.gz
+    $ sudo curl -O ftp://ftp.gnu.org/gnu/ncurses/ncurses-5.6.tar.gz
     $ sudo tar -xzvf ncurses.tar.gz
     $ sudo wget http://download.berlios.de/ncurses-ruby/ncurses-ruby-1.1.tar.bz2
     $ sudo tar -xjvf ncurses-ruby-1.1.tar.bz2
