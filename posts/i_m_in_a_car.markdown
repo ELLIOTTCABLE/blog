@@ -67,5 +67,5 @@ follow along and sing our lyrics while watching the video, it's entertaining.
  > Sha-sha-shorty, shorty
  > Yeah yeah yeahhh
 
-  [video]: <http://www.youtube.com/watch?v=R7yfISlGLNU#t=0m24s>
+  [video]: <http://www.youtube.com/watch?v=R7yfISlGLNU#t=0m25s>
     "I’m On A Boat (ft. T-Pain) - Album Version - on Youtube"
