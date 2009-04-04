@@ -61,7 +61,13 @@ follow along and sing our lyrics while watching the video, it's entertaining.
     When a fast car comin my way
     Believe me when I sayyyy, I fucked grease moonnkeyyyyy
     
-    [Chorus]
+    [Chorus (T-Pain)]
+    I’m in a car (I’m in a car)
+    I’m in a car (I’m in a car)
+    Everybody look at me, ’cause I’m ridin’ in a car (ridin’ in a car)
+    I’m in a car (I’m in a car)
+    I’m in a car
+    Take a good hard look at the motherfuckin’ car (car, yeah.)
     
     [T-Pain]
     Whoahhh
