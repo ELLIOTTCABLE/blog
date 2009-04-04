@@ -5,14 +5,14 @@ My roommate and I got bored, and modified the lyrics to The Lonely Island’s
 [*I’m On a Boat*][video] with our own variation on the concept. I suggest you
 follow along and sing our lyrics while watching the video, it's entertaining.
 
- > [Intro (T-Pain)]
+ > \[Intro (T-Pain)]
  > (Shortayyyy) Awww, shit!
  > Get cho’ seatbelts ready, it’s about to go down (shorty, yeah!)
  > Everybody in the place hit the *fuckin’* road (shorty, yeah!)
  > But stay on your *motherfuckin’* toes
  > We runnin’ this, let’s go
  > 
- > [Chorus (T-Pain)]
+ > \[Chorus (T-Pain)]
  > I’m in a car (I’m in a car)
  > I’m in a car (I’m in a car)
  > Everybody look at me, ’cause I’m ridin’ in a car (ridin’ in a car)
@@ -20,7 +20,7 @@ follow along and sing our lyrics while watching the video, it's entertaining.
  > I’m in a car
  > Take a good hard look at the motherfuckin car (car, yeah.)
  > 
- > [The Lonely Island (T-Pain)]
+ > \[The Lonely Island (T-Pain)]
  > I’m in a car motherfucker take a look at me
  > Straight cruisin’ in a car on a long-ass street
  > There’s a brand new road, runnin’ through the tar
@@ -52,7 +52,7 @@ follow along and sing our lyrics while watching the video, it's entertaining.
  > Gonna fly this car to the moon somehow (moon somehow)
  > Like Latrell Sprewell, anythin’ is possible
  > 
- > [T-Pain]
+ > \[T-Pain]
  > Yeah, never thought I’d be in a car
  > It’s a big black rooooamin’ road (yeah)
  > Saint Aaanthony! Look at me, oh (everybody in the car!)
@@ -60,9 +60,9 @@ follow along and sing our lyrics while watching the video, it's entertaining.
  > When a fast car comin my way
  > Believe me when I say, I fucked grease monkey
  > 
- > [Chorus]
+ > \[Chorus]
  > 
- > [T-Pain]
+ > \[T-Pain]
  > Whoahhh
  > Sha-sha-shorty, shorty
  > Yeah yeah yeahhh
