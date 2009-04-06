@@ -61,7 +61,7 @@ h5,
 h6 { font-size: 100%; }
 
 /* All 'body' block elements */
-p, pre, blockquote {
+p, pre, blockquote, ul, ol {
   padding-bottom: 1.2em;
 }
 
