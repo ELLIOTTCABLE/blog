@@ -31,7 +31,7 @@ followees, and updates. I registered [@TalkieMe][] to run the bot under in the
 meantime, and proceeded to open a [Twitter support][] request, as follows:
 
 > We're trying to write a Twitter bot for our new chat service,
-> http://talkie.me/, so that we can integrate Talkie into Twitter (allow
+> <http://talkie.me/>, so that we can integrate Talkie into Twitter (allow
 > people to create temporary insta-chatrooms to continue Twitter discussions
 > in Talkie). However, the @Talkie username is taken, by somebody with zero
 > followers, zero followees, and zero updates. Could you destroy that account
@@ -95,10 +95,10 @@ ticket was "deemed solved". Now, read this carefully, and let it sink in.
 > something, please try again as your issue may've been fixed.
 > 
 > If you're still experiencing issues, please check our Troubleshooting pages:
-> http://help.twitter.com/forums/10713/entries
+> <http://help.twitter.com/forums/10713/entries>
 > 
 > and our Known Issues pages:
-> http://help.twitter.com/forums/31935/entries
+> <http://help.twitter.com/forums/31935/entries>
 > 
 > to see if you're affected by one of the cache/database problems we're aware
 > of and working on fixing; you can add your user name to the related thread
@@ -123,7 +123,7 @@ I proceeded to make the following new "support request", on March 21st, at
 06:45 PM:
 
 > We're trying to write a Twitter bot for our new chat service,
-> http://talkie.me/, so that we can integrate Talkie into Twitter (allow
+> <http://talkie.me/>, so that we can integrate Talkie into Twitter (allow
 > people to create temporary insta-chatrooms to continue Twitter discussions
 > in Talkie). However, the @Talkie username is taken, by somebody with zero
 > followers, zero followees, and zero updates. Could you destroy that account
@@ -160,21 +160,21 @@ I also received the following email:
 > possible that we've already fixed the issue: check out the Twitter Status
 > blog for known and fixed bugs:
 > 
-> http://status.twitter.com
+> <http://status.twitter.com>
 > 
 > Often times, we're already working on the problem you're reporting, or the
 > answer to your question is already listed in our help resources. Visit our
 > Support home page: 
-> http://help.twitter.com/portal
+> <http://help.twitter.com/portal>
 > 
 > and type your question or keyword into the search bar in the sidebar to see
 > if the answer to your question is in one of our help resources. If you have
 > a question about how to do something or need more information about a
 > certain feature, please check our Getting Started resources: 
-> http://help.twitter.com/forums/10711/entries
+> <http://help.twitter.com/forums/10711/entries>
 > 
 > and our How To section: 
-> http://help.twitter.com/forums/23786/entries
+> <http://help.twitter.com/forums/23786/entries>
 > 
 > If you're having a problem, please check our Trouble shooting and Known
 > Issues resources to see if it's something you can fix, or something we're
@@ -184,14 +184,14 @@ I also received the following email:
 > Finally, if you're having trouble with a Terms of Service issue (like
 > Copyright, Terms of Service, Trademark, etc.) please consult the policies to
 > find out what steps to take for a quick resolution: 
-> http://help.twitter.com/forums/26257/entries 
+> <http://help.twitter.com/forums/26257/entries>
 > Make sure to select 'Terms of Service' when you submit your request for the
 > fastest resolution.
 > 
 > If none of these resources have helped you, please reply to this email and
 > let us know. There is no need for duplicate requests, one is sufficient.
 > Check on open requests here at anytime: 
-> http://help.twitter.com/requests/portal/index
+> <http://help.twitter.com/requests/portal/index>
 > 
 > Thanks for being patient!
 > Twitter Support
@@ -213,21 +213,21 @@ I also received the following email:
 >> It's possible that we've already fixed the issue: check out the Twitter
 >> Status blog for known and fixed bugs:
 >> 
->> http://status.twitter.com
+>> <http://status.twitter.com>
 >> 
 >> Often times, we're already working on the problem you're reporting, or the
 >> answer to your question is already listed in our help resources. Visit our
 >> Support home page: 
->> http://help.twitter.com/portal
+>> <http://help.twitter.com/portal>
 >> 
 >> and type your question or keyword into the search bar in the sidebar to see
 >> if the answer to your question is in one of our help resources. If you have
 >> a question about how to do something or need more information about a
 >> certain feature, please check our Getting Started resources: 
->> http://help.twitter.com/forums/10711/entries
+>> <http://help.twitter.com/forums/10711/entries>
 >> 
 >> and our How To section: 
->> http://help.twitter.com/forums/23786/entries
+>> <http://help.twitter.com/forums/23786/entries>
 > 
 > I don't need links to how-to and readme documents. I need a **human** to
 > read my (really, rather simple) support request.
@@ -252,7 +252,7 @@ I also received the following email:
 >> Finally, if you're having trouble with a Terms of Service issue (like
 >> Copyright, Terms of Service, Trademark, etc.) please consult the policies to
 >> find out what steps to take for a quick resolution: 
->> http://help.twitter.com/forums/26257/entries 
+>> <http://help.twitter.com/forums/26257/entries>
 >> Make sure to select 'Terms of Service' when you submit your request for the
 >> fastest resolution.
 > 
@@ -273,7 +273,7 @@ I also received the following email:
 > post a new one? make up your fucking mind.
 > 
 >> Check on open requests here at anytime: 
->> http://help.twitter.com/requests/portal/index
+>> <http://help.twitter.com/requests/portal/index>
 >> 
 >> Thanks for being patient!
 > 
