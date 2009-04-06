@@ -40,24 +40,17 @@ a:hover { text-decoration: underline; }
 code, pre, tt { font-family: Inconsolata; }
 sup { vertical-align: super; font-size: 75%; font-weight: bold; }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Museo 100", Helvetica, Geneva, sans-serif;
   text-align: center;
   text-transform: uppercase;
   margin: 0 0.5em 0.5em;
 }
 
-h1 { font-size: 350%; }
-h2 { font-size: 200%; }
-h3 { font-size: 125%; }
-h4,
-h5,
-h6 { font-size: 100%; }
+h1          { font-size: 350%; }
+h2          { font-size: 200%; }
+h3          { font-size: 125%; }
+h4, h5, h6  { font-size: 100%; }
 
 /* All 'body' block elements */
 p, pre, blockquote, ul, ol {
