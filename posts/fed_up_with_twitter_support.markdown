@@ -400,3 +400,34 @@ redditing it. Twitter needs to realize that we won't take this bullshit for
 very long.
 
 Any support (heh) here is much, much appreciated.
+
+Commentary
+----------
+[@yonderboy][] raised [a perfectly valid point][yonderboy-tweet] on Twitter:
+
+> [@elliottcable][] just read your blog post. if you're so unhappy with
+> twitter, ask for a refund. oh wait. in that case, build your own.. i'm sure
+> their support site looks after a lot of broken accounts, accounts fucking up
+> or security problems. give it time - as they scale up the service, they have
+> to do things a certain way. you had a way around the problem, others don't..
+
+I fully recognize the "you get what you pay for" argument. I'm not paying
+anything to use Twitter, after all; what right do I have to demand support?
+
+What one must realize here, is that Twitter is claiming to provide support by
+*having* a support site in the first place. If they claimed "this is a free
+service, provided without any support whatsoever", I'd understand. Even if
+they simply silently didn't offer any sort of support system, I'd probably be
+ticked, but move on. What really pisses me off is the fact that they proffer
+support in the form of <http://help.twitter.com>, and then fail to follow
+through on the time I invested in submitting a ticket.
+
+Another thing worth noticing is the fact that Twitter's raised a ton of money
+in multiple rounds of funding. That money should be going somewhere useful.
+I'm sure a lot of it goes towards hardware and maintenance and bandwidth; but
+with the support situation as it currently is, IMHO quite a bit more should be
+put towards support staff than currently must be.
+
+  [@yonderboy]: <https://twitter.com/yonderboy> "Lupis Yonderboy's Twitter"
+  [yonderboy-tweet]: <https://twitter.com/yonderboy/status/1462549194>
+  [@elliottcable]: <https://twitter.com/elliottcable> "Elliott Cable's Twitter"
