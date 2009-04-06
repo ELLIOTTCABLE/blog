@@ -37,6 +37,19 @@ html, body {
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
+
+b { font-weight: bold; font: 11pt/1.7 "Fontin Bold", Georgia, "Times New Roman", Times, serif; }
+i { font-style: italic; font: 11pt/1.7 "Fontin Italic", Georgia, "Times New Roman", Times, serif; }
+/* This counts on Fontin Small Caps not having a bold variant. Will be Fontin Small Caps if possible, otherwise, something really bold. */
+strong { font-weight: 900; font: 11pt/1.7 "Fontin Small Caps", Georgia, "Times New Roman", Times, serif; }
+em {
+  padding: 0.25em;
+  margin: -0.25em;
+  background: rgba(0, 255, 128, 0.50);
+  font-style: italic;
+  font: 11pt/1.7 "Fontin Italic", Georgia, "Times New Roman", Times, serif;
+}
+
 code, pre, tt { font-family: Inconsolata; }
 sup { vertical-align: super; font-size: 75%; font-weight: bold; }
 
