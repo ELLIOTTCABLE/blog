@@ -55,16 +55,14 @@ consider it a very big deal when it wasn't - after all, the bot wasn't seeing
 all that much use, so I didn't worry.
 
   [@Bluebie]: <http://twitter.com/Bluebie> "An extraordinary pony!"
-  [Talkie]: <http://talkie.me/>
-    "Where nice, creative, and fun people go to chat"
+  [Talkie]: <http://talkie.me/> "Where nice, creative, and fun people go to chat"
   [Twitter]: <http://twitter.com/> "Where you never, ever get any support"
   [#GetARoom]: <http://search.twitter.com/search?q=%23GetARoom>
   [#TakeItToTalkie]: <http://search.twitter.com/search?q=%23TakeItToTalkie>
   [#TalkieMe]: <http://search.twitter.com/search?q=%23TalkieMe>
   [@talkie]: <http://twitter.com/talkie> "Damned Twitter username squatter."
   [@TalkieMe]: <http://twitter.com/TalkieMe> "What an interesting little bot!"
-  [Twitter support]: <http://help.twitter.com/>
-    "The name is a lie, it doesn't exist, I swear."
+  [Twitter support]: <http://help.twitter.com/> "The name is a lie, it doesn't exist, I swear."
 
 First Disregard
 ---------------
@@ -378,14 +376,11 @@ complaining about the lack of any sort of response from Twitter:
 Guess what? No Twitter response to any of these threads either.
 
   [Get Satisfaction]: <http://getsatisfaction.com/>
-  [Twitter-GS]: <http://getsatisfaction.com/twitter>
-    "Twitter's defunct Get Satisfaction"
+  [Twitter-GS]: <http://getsatisfaction.com/twitter> "Twitter's defunct Get Satisfaction"
   [Zendesk]: <http://www.zendesk.com/>
   [Checking on old Support requests]: <http://getsatisfaction.com/twitter/topics/checking_on_old_support_requests>
-  [threads-1]: <http://getsatisfaction.com/twitter/searches?query=zendesk>
-    "Searching Twitter's Get Satisfaction for 'Zendesk'"
-  [threads-2]: <http://getsatisfaction.com/twitter/searches?query=No+response>
-    "Searching Twitter's Get Satisfaction for 'No response'"
+  [threads-1]: <http://getsatisfaction.com/twitter/searches?query=zendesk> "Searching Twitter's Get Satisfaction for 'Zendesk'"
+  [threads-2]: <http://getsatisfaction.com/twitter/searches?query=No+response> "Searching Twitter's Get Satisfaction for 'No response'"
 
 Take Action
 -----------
