@@ -1,9 +1,14 @@
 Fed Up with Twitter Support
 ===========================
 
-Okay, this is … really trying. I'm not sure where to start.
+- **Twitter Members:** Please **[retweet this](http://twitter.com/home?status=RT%20@elliottcable:%20@Twitter%20Support%20has%20deserted%20us:%20http://bit.ly/toBP!%20Please%20retweet,%20@crystal%20@caroline%20@mhegge%20@delbius%20@alissa%20@sean&in_reply_to_status_id=1462107843&in_reply_to=elliottcable)!**
+- **Reddit Members:** Please *[upmod this](http://www.reddit.com/r/reddit.com/comments/8abjw/twitter_support_is_dead/)!*
+- **Digg Members:** Please *[Digg this](http://digg.com/people/Twitter_Support_is_dead)!*
 
-Let's get this out on the table first of all: Twitter's support team … is gone.
+To all of you, your support is appreciated!
+
+Okay, this is … really trying. I'm not sure where to start. Let's get this out
+on the table first of all: Twitter's support team … is gone.
 
 Now for a little story.
 
