@@ -94,10 +94,10 @@ ticket was "deemed solved". Now, read this carefully, and let it sink in.
 > things have changed since you last wrote in; if you were having trouble with
 > something, please try again as your issue may've been fixed.
 > 
-> If you're still experiencing issues, please check our Troubleshooting pages:
+> If you're still experiencing issues, please check our Troubleshooting pages:<br/>
 > <http://help.twitter.com/forums/10713/entries>
 > 
-> and our Known Issues pages:
+> and our Known Issues pages:<br/>
 > <http://help.twitter.com/forums/31935/entries>
 > 
 > to see if you're affected by one of the cache/database problems we're aware
@@ -106,7 +106,7 @@ ticket was "deemed solved". Now, read this carefully, and let it sink in.
 > topics address your problem, please let us know by submitting a new request
 > with the updated details.
 > 
-> Thanks for your patience!
+> Thanks for your patience!<br/>
 > Twitter Support
 
 Uh. Let me get this straight. No human ever took a single look at my request …
@@ -151,8 +151,8 @@ request itself.
 
 I also received the following email:
 
-> \#\# In replies all text above this line is added to the ticket \#\#
-> Ticket #97041: We're trying to write a Twi...
+> \#\# In replies all text above this line is added to the ticket \#\#<br/>
+> Ticket #97041: We're trying to write a Twi...<br/>
 > Hi elliottcable,
 > 
 > Twitter Support is experiencing a ticket backlog. You're receiving this
@@ -164,16 +164,16 @@ I also received the following email:
 > 
 > Often times, we're already working on the problem you're reporting, or the
 > answer to your question is already listed in our help resources. Visit our
-> Support home page: 
+> Support home page:<br/>
 > <http://help.twitter.com/portal>
 > 
 > and type your question or keyword into the search bar in the sidebar to see
 > if the answer to your question is in one of our help resources. If you have
 > a question about how to do something or need more information about a
-> certain feature, please check our Getting Started resources: 
+> certain feature, please check our Getting Started resources:<br/>
 > <http://help.twitter.com/forums/10711/entries>
 > 
-> and our How To section: 
+> and our How To section:<br/>
 > <http://help.twitter.com/forums/23786/entries>
 > 
 > If you're having a problem, please check our Trouble shooting and Known
@@ -183,25 +183,25 @@ I also received the following email:
 > 
 > Finally, if you're having trouble with a Terms of Service issue (like
 > Copyright, Terms of Service, Trademark, etc.) please consult the policies to
-> find out what steps to take for a quick resolution: 
-> <http://help.twitter.com/forums/26257/entries>
+> find out what steps to take for a quick resolution:<br/>
+> <http://help.twitter.com/forums/26257/entries><br/>
 > Make sure to select 'Terms of Service' when you submit your request for the
 > fastest resolution.
 > 
 > If none of these resources have helped you, please reply to this email and
 > let us know. There is no need for duplicate requests, one is sufficient.
-> Check on open requests here at anytime: 
+> Check on open requests here at anytime:<br/>
 > <http://help.twitter.com/requests/portal/index>
 > 
-> Thanks for being patient!
+> Thanks for being patient!<br/>
 > Twitter Support
 > 
 > This email is a service from Twitter Support
 
 … woah. Okay, I'm going to go through that e-mail again, and dissect it a bit:
 
->> \#\# In replies all text above this line is added to the ticket \#\#
->> Ticket #97041: We're trying to write a Twi...
+>> \#\# In replies all text above this line is added to the ticket \#\#<br/>
+>> Ticket #97041: We're trying to write a Twi...<br/>
 >> Hi elliottcable,
 >> 
 >> Twitter Support is experiencing a ticket backlog. You're receiving this
@@ -217,16 +217,16 @@ I also received the following email:
 >> 
 >> Often times, we're already working on the problem you're reporting, or the
 >> answer to your question is already listed in our help resources. Visit our
->> Support home page: 
+>> Support home page:<br/>
 >> <http://help.twitter.com/portal>
 >> 
 >> and type your question or keyword into the search bar in the sidebar to see
 >> if the answer to your question is in one of our help resources. If you have
 >> a question about how to do something or need more information about a
->> certain feature, please check our Getting Started resources: 
+>> certain feature, please check our Getting Started resources:<br/>
 >> <http://help.twitter.com/forums/10711/entries>
 >> 
->> and our How To section: 
+>> and our How To section:<br/>
 >> <http://help.twitter.com/forums/23786/entries>
 > 
 > I don't need links to how-to and readme documents. I need a **human** to
@@ -251,8 +251,8 @@ I also received the following email:
 > 
 >> Finally, if you're having trouble with a Terms of Service issue (like
 >> Copyright, Terms of Service, Trademark, etc.) please consult the policies to
->> find out what steps to take for a quick resolution: 
->> <http://help.twitter.com/forums/26257/entries>
+>> find out what steps to take for a quick resolution:<br/>
+>> <http://help.twitter.com/forums/26257/entries><br/>
 >> Make sure to select 'Terms of Service' when you submit your request for the
 >> fastest resolution.
 > 
@@ -272,7 +272,7 @@ I also received the following email:
 > updated details." Which is it, you idiot? Re-open the original request, or
 > post a new one? make up your fucking mind.
 > 
->> Check on open requests here at anytime: 
+>> Check on open requests here at anytime:<br/>
 >> <http://help.twitter.com/requests/portal/index>
 >> 
 >> Thanks for being patient!
@@ -304,7 +304,7 @@ Satisfaction, I can no longer get satisfaction from Twitter support?
 In any case, there's a big yellow header on the Get Satisfaction page that
 says the following:
 
-> Most recent Company Update (3 months ago):
+> Most recent Company Update (3 months ago):<br/>
 > [Checking on old Support requests][]
 
 Not one to leave any stone unturned, I immediately clicked the link. To my
