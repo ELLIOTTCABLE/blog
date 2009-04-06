@@ -61,7 +61,7 @@ h5,
 h6 { font-size: 100%; }
 
 /* All 'body' block elements */
-p, pre {
+p, pre, blockquote {
   padding-bottom: 1.2em;
 }
 
@@ -73,6 +73,24 @@ p {
 /* Stand-out block elements */
 pre {
   margin-left: 1em;
+}
+
+blockquote {
+  margin-left: 1em;
+  padding-left: 1em;
+  padding-right: 2em;
+}
+
+blockquote {
+  border-left: 3px solid #144FAE;
+}
+
+blockquote blockquote {
+  border-left: 3px solid #0a6313;
+}
+
+blockquote blockquote blockquote {
+  border-left: 3px solid #520406;
 }
 
 /* -- -- -- -- -- ! -- -- -- -- -- */ /* Post pages */
