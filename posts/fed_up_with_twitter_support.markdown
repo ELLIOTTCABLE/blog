@@ -8,7 +8,15 @@ Fed Up with Twitter Support
 To all of you, your support is appreciated!
 
 Okay, this is … really trying. I'm not sure where to start. Let's get this out
-on the table first of all: Twitter's support team … is gone.
+on the table first of all: Twitter's support team … is gone. There have been
+numerous postings to the only public support system they have by people with
+the same problem as me: support requests having been unanswered for weeks,
+months, and in at least one case, a year.
+
+This is patently ridiculous. I mean, I don't mind waiting a week or two for a
+non-urgent support request to be filled, but a month and a half? Even worse,
+having the support system declare my request so important as to be _discarded_?
+Come the fuck on.
 
 Now for a little story.
 
