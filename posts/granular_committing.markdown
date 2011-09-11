@@ -192,6 +192,8 @@ Official/Master branch. This is purely for convenience.
       $  git push Personal Master:Stale
       $  git push Official Master:Master
 
+   [semver]: <http://semver.org/>
+
 ### tl;dr
 And with that, we’re done. In summary, your changes are going to ‘bubble’ through the following
 path, on approximately the listed timelines:
