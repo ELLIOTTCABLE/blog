@@ -9,18 +9,18 @@ First off, some terminology that I’m going to use throughout the document (oth
 standard git terminology applies as well, such as ‘remote’ and ‘upstream.’ In some of these cases,
 the case of the words is important):
 
-- Official: the final remote repository that others will pull from (say, github.com/Paws/Paws.c.git)
-- Personal: the remote repository that you work in (say, github.com/elliottcable/Paws.c.git)
+-  Official: the final remote repository that others will pull from (`github.com/Paws/Paws.c.git`)
+-  Personal: the remote repository that you work in (`github.com/elliottcable/Paws.c.git`)
 
-- Master: the branch that completed work units are merged into
-- topic branch: a branch for the discrete safe-stages of a single work unit
-- granular branch: a branch for grains, that will later be squashed onto the topic branch
+-  Master: the branch that completed work units are merged into
+-  topic branch: a branch for the discrete safe-stages of a single work unit
+-  granular branch: a branch for grains, that will later be squashed onto the topic branch
 
-- work unit: a single independent feature addition or bug-fix, existing separate from others
-- safe-stage: a single chronological subunit of a work unit that compiles and passes all tests,
-              regardless of whether the work unit itself can be considered “complete” (these will
-              eventually become commits against Master)
-- grain: individual working commits that will be squashed into a safe-stage
+-  work unit: a single independent feature addition or bug-fix, existing separate from others
+-  safe-stage: a single chronological subunit of a work unit that compiles and passes all tests,
+   regardless of whether the work unit itself can be considered “complete” (these will
+   eventually become commits against Master)
+-  grain: individual working commits that will be squashed into a safe-stage
 
 Don’t worry if a lot of those don’t make sense yet. We’ll get to that.
 
